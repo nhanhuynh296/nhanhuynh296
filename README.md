@@ -17,18 +17,21 @@ Currently building embedded and backend systems at Fisher & Paykel.
 ---
 
 ## 💼 Experience
+- **Platform Engineer** - LikeMinded Learning *(2026-Present)*
+  - Maintaining the Totara LMS platform for multiple clients with high uptime
+  - Delivering customised solutions tailored to specific needs
 
-- **Product Development Engineer** — Fisher & Paykel *(2023–Present)*
-  - Middleware engineer in cross-functional team
-  - Built Python-based backend application to remove hardware dependency
-  - Developed FastAPI timelapse service for executive demonstrations
+- **Product Development Engineer** — Fisher & Paykel *(2023–2026)*
+  - Middleware engineer in a cross-functional team
+  - Built a Python-based backend application to remove hardware dependency
+  - Developed FastAPI time-lapse service for executive demonstrations
 
 - **Software Intern** — Assura Software *(2022)*
   - Refactored Selenium test suite in C#
   - Built polling-based test system — cut test time by 30s per test
 
 - **Research Assistant** — University of Canterbury *(2022)*
-  - Built automated Python data pipeline processing Common Crawl & Twitter data
+  - Built an automated Python data pipeline processing Common Crawl & Twitter data
   - Trained and deployed ML models for semantic classification
 
 ---
@@ -44,7 +47,7 @@ Currently building embedded and backend systems at Fisher & Paykel.
 
 ### 💼 Resume chatbot
 - A RAG pipeline for QA task about my CV
-- Used my CV as Retriver, used Google Gemini for text embedding/generator 
+- Used my CV as a Retriver, used Google Gemini for text embedding/generator 
 
 ---
 
